@@ -57,17 +57,7 @@ If you want to store key-value pair without duplicate key, use Map ,
 		Savepoint spt1 = con.setSavepoint("svpt1");
 	      stmt.execute(query1);
 	       con.rollback(spt1);
-	       
-	       
-	       
-	       
-	       
-	       
-	       
-	       
-	       
-	       
-	       
+     
 	       
 	       
 	       
